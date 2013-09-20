@@ -1,0 +1,14 @@
+/* Toolbar button */
+body .redactor_toolbar li a.redactor_btn_charmap {
+	background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAYAAADE6YVjAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAOwgAADsIBFShKgAAAABp0RVh0U29mdHdhcmUAUGFpbnQuTkVUIHYzLjUuMTFH80I3AAABhklEQVRIS7WTsWoCURBF/TX1H+ysbGxsRSSaIGIh1hYiFqYNNkIqexu7QMKadomVJn8w8bzsbJb1pljYXDjsmzOz81DYipn9O1KWjZRlI2XZSAlFo3Y4UkLRqB2OlJBPHMd2OBwCnBOdRu1wpARPFEW2XC5tPB7bZvMU4Iyjl4zJHY6UQKLo3fr9vo1GoyAuly8Dzjh6zFCrHY6UQObzuXU6Hdvtdj8iExw9ZqjVDkdKIO122+B4PN5cgvM+tdrhSAmk1WoZhEIk21c7HCmBDAYDazabf15CjxnOaocjJZDt9tkajYbt9/ubi3D0mKFWOxwpgZxOJxsOh7Z+XN9cgqPHDLXa4UgJdw/36eJer2cvb69pzRmXlGE2/34WKaHb7Yb/e7FY2Gw2s8lkki7lF0yn09Bjhtn8+1mkhNVqZbVazarVanhCckcFV6/XU89s/v0sUkIcf9j5/Hn9wi/X5zmQ3HH98n8dM8zm388iJRSN2uFICUWjdjhSlo2UZSNl2UhZLlb5BkG14c6F97VDAAAAAElFTkSuQmCC');
+}
+/* Modal */
+#redactor_charmap_wrapper {
+	padding: 10px 10px 10px 20px;
+}
+#redactor_charmap_wrapper > button {
+	width: 37px;
+	height: 37px;
+	padding: 0;
+	margin: 0 10px 10px 0;
+}
