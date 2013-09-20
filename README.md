@@ -1,7 +1,7 @@
 redactorjs-charmap
 ========================
 
-Plugin for [Redactor](http://imperavi.com/redactor/) (WYSIWYG html editor)
+Plugin for [Redactor](http://imperavi.com/redactor/) (WYSIWYG html editor) v9.0.3
 
 Usage
 ------------------------
