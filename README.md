@@ -35,5 +35,5 @@ $(document).ready(function () {
 
 License
 -------
-Copyright (c) 2013 Pakalo Evgeniy Licensed under the MIT license.
+Copyright (c) 2013 Yauheni Pakala Licensed under the MIT license.
 
